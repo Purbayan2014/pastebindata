@@ -1,0 +1,13 @@
+{
+  "name": "vercel-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "body-parser": "^1.19.0"
+  }
+}
+
